@@ -123,7 +123,7 @@ return [
 
     'repository'   => [
         'provider' => 'github',
-        'url'      => 'https://github.com/check-in-dog/doc-en.checkindog.com'
+        'url'      => 'https://github.com/check-in-dog/docs-en.checkindog.com'
     ],
 
     /*
