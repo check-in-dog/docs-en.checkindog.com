@@ -1,0 +1,3 @@
+- ## Getting Started
+    - [Create your account](/docs/{{version}}/account)
+    - [Overview](/docs/{{version}}/getting-started)
